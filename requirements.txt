@@ -1,8 +1,0 @@
-scikit-learn
-numpy
-keras
-tensorflow
-notebook
-ipykernel
-torchvision
-pytorch # torch if installed with pip instead of conda
